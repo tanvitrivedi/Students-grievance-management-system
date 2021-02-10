@@ -1,0 +1,21 @@
+Group Members
+
+1.Tripathi Tejas
+2.Trivedi Rohan
+3.Trivedi Tanvi
+
+Note:Group member 2 Trivedi Rohan was not attending any lecture because of his own problems so his task is not included in project(taken permission from ma'am)
+
+
+Project-36 Students Grievance Management System. 
+ 
+The project Deals with Student Grievance management. Create a Class called Student having Variables as S_id,S_Name, S_Contact,S_semester,S_Stream(CBA,CS,BDA). Now Create class called Grievance having Variables as G_Id, G_type(Infrastructure_bad,Student_report,Computer_System_i ssue, Allocated_leaves, Study_Load_hours_issue, Study_Issue, Timmings_issue), G_Faculty,G_Status. Now Implement Following tasks 
+ 
+Specific task Group Member-1    
+13) Display names of all the students which belong to stream ‘BDA’ and are in semester ‘VI’ or ‘IV’. 14) Display names of all the students who have reported grievance type as ‘Infrastructure Bad’ and are from stream ‘CBA’.
+
+Specific task Group Member-2    
+15) Display names of all the students who have reported grievance type as ‘Study Issue’   with faculty ‘Ms Sharma’ 16) Display names of all the grievance reported by students of semester ‘1’ and ‘3’ alphabetically sorted. 
+
+Specific task Group Member-3
+17) Display names of all the grievance reported by students of semester ‘5’ and ‘6’ made for ‘Allocated leaves’ and ‘Study load hours issue’ alphabetically sorted. 18) Display the names of all faculties with g status as pending for semester 1,2 and 3. 
